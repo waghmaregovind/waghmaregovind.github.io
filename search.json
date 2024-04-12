@@ -4,7 +4,7 @@
     "href": "blog/posts/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Test blog! WIP\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
     "objectID": "index.html",
@@ -39,6 +39,6 @@
     "href": "blog/index.html",
     "title": "blog",
     "section": "",
-    "text": "Welcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 9, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome To My Blog\n\n\n\n\n\n\n\n\n\n\n\nApr 12, 2024\n\n\n\n\n\n\nNo matching items"
   }
 ]
