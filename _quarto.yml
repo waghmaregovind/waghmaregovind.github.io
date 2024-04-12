@@ -1,0 +1,49 @@
+project:
+  type: website
+  preview: 
+    port: 4200
+    browser: true
+
+website:
+  title: "Govind Waghmare"
+  description: "Personal website of Govind Waghmare"
+  site-url: "https://waghmaregovind.github.io/"
+  repo-branch: master
+  repo-url: "https://github.com/waghmaregovind/waghmaregovind.github.io"
+  navbar:
+    search: false
+    title: false
+    # background: dark
+    # foreground: light
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Blog"
+        href: blog/index.qmd
+      - publications.qmd
+    right:
+      - icon: twitter
+        href: https://twitter.com/waghmaregovind
+      - icon: linkedin
+        href: https://www.linkedin.com/in/govind-waghmare/
+      - icon: github
+        href: https://github.com/waghmaregovind
+     
+  page-footer:
+    border: true
+    left: |
+      Developed using [Quarto](https://quarto.org).
+      
+      
+format:
+  html:
+    theme:
+      light: cerulean
+      dark: cyborg
+    css: styles.css
+    toc: false
+
+execute: 
+  freeze: auto
+
+
