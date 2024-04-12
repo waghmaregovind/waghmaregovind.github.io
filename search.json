@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "blog/posts/welcome/index.html",
+    "href": "blog/posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Govind Waghmare",
+    "section": "",
+    "text": "I currently work at Mastercard as a Senior Data Scientist. My research interests include temporal graphs and NLP for transactional data."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Govind Waghmare",
+    "section": "Education",
+    "text": "Education\n   Masters in Computational Data Sciences, 2020           Indian Institute of Science | Bangalore, India \n   Bachelors in Electonics, 2016           College of Engineering | Pune, India"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Govind Waghmare",
+    "section": "Experience",
+    "text": "Experience\n\nMastercard AI Garage \n\n Senior Data Scientist | Sep 2022 - present \n Data Scientist | Aug 2020 - Aug 2022 \n\nTata Research, Development and Design Center \n\n Applied Researcher | Aug 2016 - Jun 2018"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Google Scholar\n\nLearning Temporal Representations of Bipartite Financial Graphs\n\nInternational Conference on AI in Finance (ICAIF), 2023\n\nTBoost: Gradient Boosting Temporal Graph Neural Networks\n\nTemporal Graph Learning Workshop @ NeurIPS, 2023\n\nModeling Inter-Dependence Between Time and Mark in Multivariate Temporal Point Processes\n\nConference on Information & Knowledge Management (CIKM), 2022\n\nAdversarial Generation of Temporal Data: A Critique on Fidelity of Synthetic Data\n\nJoint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML PKDD), 2021\n\nExploring generative data augmentation in multivariate time series forecasting: opportunities and challenges\n\nKDD Workshop on Mining and Learning from Time Series (MileTS), 2021\n\nUnsupervised cross-modal alignment for multi-person 3d pose estimation\n\nEuropean Conference on Computer Vision (ECCV), 2020\nProject page\n\nBadminton shuttlecock detection and prediction of trajectory using multiple 2 dimensional scanners\n\nIEEE First International Conference on Control, Measurement and Instrumentation (CMI), 2016"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "blog",
+    "section": "",
+    "text": "Welcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 9, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  }
+]
