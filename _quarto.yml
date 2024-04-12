@@ -33,8 +33,7 @@ website:
     border: true
     left: |
       Developed using [Quarto](https://quarto.org).
-      
-      
+       
 format:
   html:
     theme:
