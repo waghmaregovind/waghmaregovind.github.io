@@ -8,13 +8,15 @@ website:
   title: "Govind Waghmare"
   description: "Personal website of Govind Waghmare"
   site-url: "https://waghmaregovind.github.io/"
+  twitter-card:
+    creator: "@waghmaregovind"
+  open-graph: true
+  google-analytics: G-KDDPV52XDM
   repo-branch: master
   repo-url: "https://github.com/waghmaregovind/waghmaregovind.github.io"
+  search: false
   navbar:
-    search: false
     title: false
-    # background: dark
-    # foreground: light
     left:
       - text: "Home"
         href: index.qmd
