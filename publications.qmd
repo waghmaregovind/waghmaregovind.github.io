@@ -3,32 +3,35 @@ title: "Publications"
 ---
 
 
-[Google Scholar](https://scholar.google.com/citations?user=QtutNncAAAAJ)
+My [Google Scholar](https://scholar.google.com/citations?user=QtutNncAAAAJ) 📝 profile.
+---
 
-- [Learning Temporal Representations of Bipartite Financial Graphs](https://dl.acm.org/doi/abs/10.1145/3604237.3626911)
-    - International Conference on AI in Finance (ICAIF), 2023
+* **[Learning Temporal Representations of Bipartite Financial Graphs](https://dl.acm.org/doi/abs/10.1145/3604237.3626911)
+<br/> Pritam Kumar Nath, Govind Waghmare, Nikhil Tumbde, Nitish Kumar, Siddhartha Asthana **
+<br/> *International Conference on AI in Finance (ICAIF), 2023*
 
-- [TBoost: Gradient Boosting Temporal Graph Neural Networks](https://openreview.net/pdf?id=API0yII2Ua)
-    - Temporal Graph Learning Workshop @ NeurIPS, 2023
+* **[TBoost: Gradient Boosting Temporal Graph Neural Networks](https://openreview.net/pdf?id=API0yII2Ua)
+<br/> Pritam Nath, Govind Waghmare, Nancy Agrawal, Nitish Kumar, Siddhartha Asthana**
+<br/> *Temporal Graph Learning Workshop @ NeurIPS, 2023*
 
-- [Modeling Inter-Dependence Between Time and Mark in Multivariate Temporal Point Processes](https://arxiv.org/abs/2210.15294)
-    - Conference on Information & Knowledge Management (CIKM), 2022
+* **[Modeling Inter-Dependence Between Time and Mark in Multivariate Temporal Point Processes](https://arxiv.org/abs/2210.15294)
+<br/> Govind Waghmare, Ankur Debnath, Siddhartha Asthana, Aakarsh Malhotra**
+<br/> *Conference on Information & Knowledge Management (CIKM), 2022*
 
-- [Adversarial Generation of Temporal Data: A Critique on Fidelity of Synthetic Data](https://link.springer.com/chapter/10.1007/978-3-030-93736-2_24)
-    - Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML PKDD), 2021
+* **[Adversarial Generation of Temporal Data: A Critique on Fidelity of Synthetic Data](https://link.springer.com/chapter/10.1007/978-3-030-93736-2_24)
+<br/> Ankur Debnath, Nitish Gupta, Govind Waghmare, Hardik Wadhwa, Siddhartha Asthana, Ankur Arora** 
+<br/> *Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML PKDD), 2021*
 
-- [Exploring generative data augmentation in multivariate time series forecasting: opportunities and challenges](https://kdd-milets.github.io/milets2021/papers/MiLeTS2021_paper_7.pdf)
-    - KDD Workshop on Mining and Learning from Time Series (MileTS), 2021
+* **[Exploring generative data augmentation in multivariate time series forecasting: opportunities and challenges](https://kdd-milets.github.io/milets2021/papers/MiLeTS2021_paper_7.pdf)
+<br/> Ankur Debnath, Govind Waghmare, Hardik Wadhwa, Siddhartha Asthana, Ankur Arora**
+<br/> *KDD Workshop on Mining and Learning from Time Series (MileTS), 2021*
 
-- [Unsupervised cross-modal alignment for multi-person 3d pose estimation](https://arxiv.org/pdf/2008.01388.pdf)
-    - European Conference on Computer Vision (ECCV), 2020
+* **[Unsupervised cross-modal alignment for multi-person 3d pose estimation](https://arxiv.org/pdf/2008.01388.pdf)
+<br/> Jogendra Nath Kundu, Ambareesh Revanur, Govind Vitthal Waghmare, Rahul Mysore Venkatesh, R Venkatesh Babu**
+<br/> *European Conference on Computer Vision (ECCV), 2020*
     - [Project page](https://sites.google.com/view/multiperson3D)
 
-- [Badminton shuttlecock detection and prediction of trajectory using multiple 2 dimensional scanners](https://ieeexplore.ieee.org/abstract/document/7413746/)
-    - IEEE First International Conference on Control, Measurement and Instrumentation (CMI), 2016
+* **[Badminton shuttlecock detection and prediction of trajectory using multiple 2 dimensional scanners](https://ieeexplore.ieee.org/abstract/document/7413746/)
+<br/> Govind Waghmare, Sneha Borkar, Vishal Saley, Hemant Chinchore, Shivraj Wabale**
+<br/> *IEEE First International Conference on Control, Measurement and Instrumentation (CMI), 2016*
 
-
-
-
-<!-- - []()
-    -  -->

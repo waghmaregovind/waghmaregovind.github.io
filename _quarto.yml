@@ -23,6 +23,8 @@ website:
       - text: "Blog"
         href: blog/index.qmd
       - publications.qmd
+      # - text: "{{< fa book >}} LLM Course"
+      #   href: https://github.com/mlabonne/llm-course
     right:
       - icon: twitter
         href: https://twitter.com/waghmaregovind

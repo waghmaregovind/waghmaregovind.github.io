@@ -1,0 +1,1 @@
+My personal website. It is developed using [Quarto](https://quarto.org).
