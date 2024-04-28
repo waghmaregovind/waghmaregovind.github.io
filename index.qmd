@@ -1,7 +1,7 @@
 ---
 title: "Govind Waghmare"
 subtitle: |
-    Machine Learning Researcher working on graphs and NLP.
+    Machine Learning Researcher.
 image: assets/profile.jpg
 toc: false
 about:
@@ -11,7 +11,9 @@ about:
 
 ---
 
-I currently work at Mastercard as a Senior Data Scientist. My research interests include temporal graphs and NLP for transactional data.
+Welcome to my personal website 👋! 
+
+I currently work at Mastercard as a Senior Data Scientist. I manage transactional data, which encompasses tabular and temporal dimensions. It involves intricate temporal data modeling utilizing time-series analysis, temporal point processes, and temporal graph neural networks. Additionally, I am actively engaged in prototyping the integration of Large Language Model (LLM)--based embeddings, harnessing their capabilities to optimize performance across transactional data scenarios. My daily responsibilities encompass the end-to-end process of designing, developing, and deploying machine learning and deep learning models at scale, ensuring robust and efficient solutions.
 
 
 ## Education
