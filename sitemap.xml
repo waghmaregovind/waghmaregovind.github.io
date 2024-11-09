@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://waghmaregovind.github.io/index.html</loc>
-    <lastmod>2024-04-28T10:09:31.834Z</lastmod>
-  </url>
-  <url>
-    <loc>https://waghmaregovind.github.io/blog/posts/welcome/index.html</loc>
-    <lastmod>2024-04-28T10:09:31.834Z</lastmod>
-  </url>
-  <url>
     <loc>https://waghmaregovind.github.io/publications.html</loc>
-    <lastmod>2024-04-28T10:09:31.834Z</lastmod>
+    <lastmod>2024-11-09T09:27:20.756Z</lastmod>
+  </url>
+  <url>
+    <loc>https://waghmaregovind.github.io/blog/posts/pc/index.html</loc>
+    <lastmod>2024-11-09T09:27:20.756Z</lastmod>
   </url>
   <url>
     <loc>https://waghmaregovind.github.io/blog/index.html</loc>
-    <lastmod>2024-04-28T10:09:31.834Z</lastmod>
+    <lastmod>2024-11-09T09:27:20.756Z</lastmod>
+  </url>
+  <url>
+    <loc>https://waghmaregovind.github.io/index.html</loc>
+    <lastmod>2024-11-09T09:27:20.756Z</lastmod>
   </url>
 </urlset>
