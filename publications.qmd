@@ -6,6 +6,12 @@ title: "Publications"
 My [Google Scholar](https://scholar.google.com/citations?user=QtutNncAAAAJ) 📝 profile.
 ---
 
+* Reviewer 🔍
+    + [WWW-2025](https://www2025.thewebconf.org/) 
+    + [ICAIF-2024](https://ai-finance.org/)
+
+---
+
 <!-- 
 
 * **[Learning Temporal Representations of Bipartite Financial Graphs](https://dl.acm.org/doi/abs/10.1145/3604237.3626911)
@@ -49,6 +55,18 @@ My [Google Scholar](https://scholar.google.com/citations?user=QtutNncAAAAJ) 📝
 ```{=html}
 <table>
   <tbody>
+
+    <tr class="border_bottom">
+      <td><img src='/assets/misc/drift_2024_cods_main_arch.png' width="275"></td>
+      <td>
+        <strong>
+            <a href="">A Scalable Approach to Covariate and Concept Drift Management via Adaptive Data Segmentation</a> 
+        </strong>
+        <br> Vennela Yarabolu, <strong>Govind Waghmare</strong>, Sonia Gupta, Siddhartha Asthana 
+        <br> <em>International Conference on Data Science and Management of Data (CODS-COMAD), 2024</em>
+      </td>
+      <!-- <hr> -->
+    </tr>
 
     <tr class="border_bottom">
       <td><img src='/assets/misc/abs_dyn_bip.jpg' width="275"></td>
