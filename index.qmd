@@ -13,7 +13,7 @@ about:
 
 Welcome to my personal website 👋! 
 
-I currently work at Mastercard as a Senior Data Scientist. I manage transactional data, which encompasses tabular and temporal dimensions. It involves intricate temporal data modeling utilizing time-series analysis, temporal point processes, and temporal graph neural networks. Additionally, I am actively engaged in prototyping the integration of Large Language Model (LLM)--based embeddings, harnessing their capabilities to optimize performance across transactional data scenarios. My daily responsibilities encompass the end-to-end process of designing, developing, and deploying machine learning and deep learning models at scale, ensuring robust and efficient solutions.
+I currently work at Mastercard as a Manager, Data Scientist. I manage transactional data, which encompasses tabular and temporal dimensions. It involves intricate temporal data modeling utilizing time-series analysis, temporal point processes, and temporal graph neural networks. My daily responsibilities encompass the end-to-end process of designing, developing, and deploying machine learning and deep learning models at scale, ensuring robust and efficient solutions.
 
 
 ## Education
@@ -30,7 +30,8 @@ I currently work at Mastercard as a Senior Data Scientist. I manage transactiona
 ## Experience
 
 - Mastercard AI Garage <br> 
-  - <span style="color:gray"> Senior Data Scientist | Sep 2022 - present </span><br> 
+  - <span style="color:gray"> Manager, Data Scientist | Mar 2025 - present </span><br> 
+  - <span style="color:gray"> Senior Data Scientist | Sep 2022 - Feb 2025 </span><br> 
   - <span style="color:gray"> Data Scientist | Aug 2020 - Aug 2022 </span>
 
 - Tata Research, Development and Design Center <br>
