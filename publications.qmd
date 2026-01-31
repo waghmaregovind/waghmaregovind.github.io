@@ -3,14 +3,9 @@ title: "Publications"
 ---
 
 
-* My [Google Scholar](https://scholar.google.com/citations?user=QtutNncAAAAJ) 📝 profile.
----
+- My [Google Scholar](https://scholar.google.com/citations?user=QtutNncAAAAJ) 📝 profile.
 
-* Reviewer 🔍
-    - WWW-2025 
-    - ICAIF-2024, ICAIF-2025
-
----
+- 🔍 **Reviewer**: WWW 2025, ICAIF 2024, 2025
 
 <!-- 
 
