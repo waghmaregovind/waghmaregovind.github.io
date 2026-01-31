@@ -1,24 +1,31 @@
 [
   {
+    "objectID": "blog/posts/pc/index.html",
+    "href": "blog/posts/pc/index.html",
+    "title": "Custom PC Configuration",
+    "section": "",
+    "text": "Custom PC configuration details using pcpartpicker.\n\nPCPartPicker Part List\n\n\n\n\nType\nItem\n\n\n\n\nCPU\nIntel Core i5-13600K 3.5 GHz 14-Core Processor\n\n\nCPU Cooler\nDeepcool LS720S ZERO DARK 85.85 CFM Liquid CPU Cooler\n\n\nMotherboard\nGigabyte B760 AORUS ELITE AX ATX LGA1700 Motherboard\n\n\nMemory\nCorsair Vengeance 32 GB (2 x 16 GB) DDR5-5600 CL36 Memory\n\n\nStorage\nWestern Digital Black SN770 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive\n\n\nVideo Card\nGigabyte GAMING OC GeForce RTX 4070 Ti SUPER 16 GB Video Card\n\n\nCase\nLian Li LANCOOL 216 ATX Mid Tower Case\n\n\nPower Supply\nCorsair RM850e (2023) 850 W 80+ Gold Certified Fully Modular ATX Power Supply"
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "My Google Scholar 📝 profile.\n\n\nReviewer 🔍\n\nWWW-2025\nICAIF-2024\n\n\n\n\n\n\n\n\n\n\n\n\nA Scalable Approach to Covariate and Concept Drift Management via Adaptive Data Segmentation\nVennela Yarabolu, Govind Waghmare, Sonia Gupta, Siddhartha Asthana\nInternational Conference on Data Science and Management of Data (CODS-COMAD), 2024\n\n\n\nLearning Temporal Representations of Bipartite Financial Graphs\nPritam Kumar Nath, Govind Waghmare, Nikhil Tumbde, Nitish Kumar, Siddhartha Asthana\nInternational Conference on AI in Finance (ICAIF), 2023\n\n\n\nTBoost: Gradient Boosting Temporal Graph Neural Networks\nPritam Nath, Govind Waghmare, Nancy Agrawal, Nitish Kumar, Siddhartha Asthana\nTemporal Graph Learning Workshop @ NeurIPS, 2023\n\n\n\nModeling Inter-Dependence Between Time and Mark in Multivariate Temporal Point Processes\nGovind Waghmare, Ankur Debnath, Siddhartha Asthana, Aakarsh Malhotra\nConference on Information & Knowledge Management (CIKM), 2022\n\n\n\nAdversarial Generation of Temporal Data: A Critique on Fidelity of Synthetic Data\nAnkur Debnath, Nitish Gupta, Govind Waghmare, Hardik Wadhwa, Siddhartha Asthana, Ankur Arora\nJoint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML PKDD), 2021\n\n\n\nExploring generative data augmentation in multivariate time series forecasting: opportunities and challenges\nAnkur Debnath, Govind Waghmare, Hardik Wadhwa, Siddhartha Asthana, Ankur Arora\nKDD Workshop on Mining and Learning from Time Series (MileTS), 2021\n\n\n\nUnsupervised cross-modal alignment for multi-person 3d pose estimation\nJogendra Nath Kundu, Ambareesh Revanur, Govind Waghmare, Rahul Mysore Venkatesh, R Venkatesh Babu\nEuropean Conference on Computer Vision (ECCV), 2020\n\n\n\nBadminton shuttlecock detection and prediction of trajectory using multiple 2 dimensional scanners\nGovind Waghmare, Sneha Borkar, Vishal Saley, Hemant Chinchore, Shivraj Wabale\nIEEE First International Conference on Control, Measurement and Instrumentation (CMI), 2016"
+    "text": "Reviewer 🔍\n\nWWW-2025\nICAIF-2024, ICAIF-2025\n\n\n\n\n\n\n\n\n\n\n\n\nKernelized Edge Attention: Addressing Semantic Attention Blurring in Temporal Graph Neural Networks\nGovind Waghmare, Srini Rohan Gujulla Leel, Nikhil Tumbde, Sumedh B G, Sonia Gupta, Srikanta Bedathur\nThe Association for the Advancement of Artificial Intelligence (AAAI), 2026\nProject Page\n\n\n\nA Scalable Approach to Covariate and Concept Drift Management via Adaptive Data Segmentation\nVennela Yarabolu, Govind Waghmare, Sonia Gupta, Siddhartha Asthana\nInternational Conference on Data Science and Management of Data (CODS-COMAD), 2024\n\n\n\nLearning Temporal Representations of Bipartite Financial Graphs\nPritam Kumar Nath, Govind Waghmare, Nikhil Tumbde, Nitish Kumar, Siddhartha Asthana\nInternational Conference on AI in Finance (ICAIF), 2023\n\n\n\nTBoost: Gradient Boosting Temporal Graph Neural Networks\nPritam Nath, Govind Waghmare, Nancy Agrawal, Nitish Kumar, Siddhartha Asthana\nTemporal Graph Learning Workshop @ NeurIPS, 2023\n\n\n\nModeling Inter-Dependence Between Time and Mark in Multivariate Temporal Point Processes\nGovind Waghmare, Ankur Debnath, Siddhartha Asthana, Aakarsh Malhotra\nConference on Information & Knowledge Management (CIKM), 2022\n\n\n\nAdversarial Generation of Temporal Data: A Critique on Fidelity of Synthetic Data\nAnkur Debnath, Nitish Gupta, Govind Waghmare, Hardik Wadhwa, Siddhartha Asthana, Ankur Arora\nJoint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML PKDD), 2021\n\n\n\nExploring generative data augmentation in multivariate time series forecasting: opportunities and challenges\nAnkur Debnath, Govind Waghmare, Hardik Wadhwa, Siddhartha Asthana, Ankur Arora\nKDD Workshop on Mining and Learning from Time Series (MileTS), 2021\n\n\n\nUnsupervised cross-modal alignment for multi-person 3d pose estimation\nJogendra Nath Kundu, Ambareesh Revanur, Govind Waghmare, Rahul Mysore Venkatesh, R Venkatesh Babu\nEuropean Conference on Computer Vision (ECCV), 2020\n\n\n\nBadminton shuttlecock detection and prediction of trajectory using multiple 2 dimensional scanners\nGovind Waghmare, Sneha Borkar, Vishal Saley, Hemant Chinchore, Shivraj Wabale\nIEEE First International Conference on Control, Measurement and Instrumentation (CMI), 2016"
   },
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "blog",
+    "objectID": "publications.html#my-google-scholar-profile.",
+    "href": "publications.html#my-google-scholar-profile.",
+    "title": "Publications",
     "section": "",
-    "text": "Custom PC Configuration\n\n\n\n\n\n\n\n\n\n\n\nApr 28, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Reviewer 🔍\n\nWWW-2025\nICAIF-2024, ICAIF-2025\n\n\n\n\n\n\n\n\n\n\n\n\nKernelized Edge Attention: Addressing Semantic Attention Blurring in Temporal Graph Neural Networks\nGovind Waghmare, Srini Rohan Gujulla Leel, Nikhil Tumbde, Sumedh B G, Sonia Gupta, Srikanta Bedathur\nThe Association for the Advancement of Artificial Intelligence (AAAI), 2026\nProject Page\n\n\n\nA Scalable Approach to Covariate and Concept Drift Management via Adaptive Data Segmentation\nVennela Yarabolu, Govind Waghmare, Sonia Gupta, Siddhartha Asthana\nInternational Conference on Data Science and Management of Data (CODS-COMAD), 2024\n\n\n\nLearning Temporal Representations of Bipartite Financial Graphs\nPritam Kumar Nath, Govind Waghmare, Nikhil Tumbde, Nitish Kumar, Siddhartha Asthana\nInternational Conference on AI in Finance (ICAIF), 2023\n\n\n\nTBoost: Gradient Boosting Temporal Graph Neural Networks\nPritam Nath, Govind Waghmare, Nancy Agrawal, Nitish Kumar, Siddhartha Asthana\nTemporal Graph Learning Workshop @ NeurIPS, 2023\n\n\n\nModeling Inter-Dependence Between Time and Mark in Multivariate Temporal Point Processes\nGovind Waghmare, Ankur Debnath, Siddhartha Asthana, Aakarsh Malhotra\nConference on Information & Knowledge Management (CIKM), 2022\n\n\n\nAdversarial Generation of Temporal Data: A Critique on Fidelity of Synthetic Data\nAnkur Debnath, Nitish Gupta, Govind Waghmare, Hardik Wadhwa, Siddhartha Asthana, Ankur Arora\nJoint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML PKDD), 2021\n\n\n\nExploring generative data augmentation in multivariate time series forecasting: opportunities and challenges\nAnkur Debnath, Govind Waghmare, Hardik Wadhwa, Siddhartha Asthana, Ankur Arora\nKDD Workshop on Mining and Learning from Time Series (MileTS), 2021\n\n\n\nUnsupervised cross-modal alignment for multi-person 3d pose estimation\nJogendra Nath Kundu, Ambareesh Revanur, Govind Waghmare, Rahul Mysore Venkatesh, R Venkatesh Babu\nEuropean Conference on Computer Vision (ECCV), 2020\n\n\n\nBadminton shuttlecock detection and prediction of trajectory using multiple 2 dimensional scanners\nGovind Waghmare, Sneha Borkar, Vishal Saley, Hemant Chinchore, Shivraj Wabale\nIEEE First International Conference on Control, Measurement and Instrumentation (CMI), 2016"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Govind Waghmare",
     "section": "",
-    "text": "Welcome to my personal website 👋!\nI currently work at Mastercard as a Manager, Data Scientist. I manage transactional data, which encompasses tabular and temporal dimensions. It involves intricate temporal data modeling utilizing time-series analysis, temporal point processes, and temporal graph neural networks. My daily responsibilities encompass the end-to-end process of designing, developing, and deploying machine learning and deep learning models at scale, ensuring robust and efficient solutions."
+    "text": "Welcome to my personal website 👋!\nI currently work at Microsoft as Senior Applied Scientist. My role includes integration of Machine Learning and LLMs into Office-Online products."
   },
   {
     "objectID": "index.html#education",
@@ -32,13 +39,13 @@
     "href": "index.html#experience",
     "title": "Govind Waghmare",
     "section": "Experience",
-    "text": "Experience\n\nMastercard AI Garage \n\n Manager, Data Scientist | Mar 2025 - present \n Senior Data Scientist | Sep 2022 - Feb 2025 \n Data Scientist | Aug 2020 - Aug 2022 \n\nTata Research, Development and Design Center \n\n Applied Researcher | Aug 2016 - Jun 2018"
+    "text": "Experience\n\nMicrosoft \n\n Senior Applied Scientist | Dec 2025 - Present \n\nMastercard AI Garage \n\n Manager, Data Scientist | Mar 2025 - Nov 2025 \n Senior Data Scientist | Sep 2022 - Feb 2025 \n Data Scientist | Aug 2020 - Aug 2022 \n\nTata Research, Development and Design Center \n\n Applied Researcher | Aug 2016 - Jun 2018"
   },
   {
-    "objectID": "blog/posts/pc/index.html",
-    "href": "blog/posts/pc/index.html",
-    "title": "Custom PC Configuration",
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "blog",
     "section": "",
-    "text": "Custom PC configuration details using pcpartpicker.\n\n\nPCPartPicker Part List\n\n\n\n\nType\nItem\n\n\n\n\nCPU\nIntel Core i5-13600K 3.5 GHz 14-Core Processor\n\n\nCPU Cooler\nDeepcool LS720S ZERO DARK 85.85 CFM Liquid CPU Cooler\n\n\nMotherboard\nGigabyte B760 AORUS ELITE AX ATX LGA1700 Motherboard\n\n\nMemory\nCorsair Vengeance 32 GB (2 x 16 GB) DDR5-5600 CL36 Memory\n\n\nStorage\nWestern Digital Black SN770 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive\n\n\nVideo Card\nGigabyte GAMING OC GeForce RTX 4070 Ti SUPER 16 GB Video Card\n\n\nCase\nLian Li LANCOOL 216 ATX Mid Tower Case\n\n\nPower Supply\nCorsair RM850e (2023) 850 W 80+ Gold Certified Fully Modular ATX Power Supply"
+    "text": "Custom PC Configuration\n\n\n\n\n\n\n\n\nApr 28, 2024\n\n\n\n\n\nNo matching items"
   }
 ]
