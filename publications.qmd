@@ -7,8 +7,8 @@ My [Google Scholar](https://scholar.google.com/citations?user=QtutNncAAAAJ) 📝
 ---
 
 * Reviewer 🔍
-    + [WWW-2025](https://www2025.thewebconf.org/) 
-    + [ICAIF-2024](https://ai-finance.org/)
+    - WWW-2025 
+    - ICAIF-2024, ICAIF-2025
 
 ---
 
@@ -55,6 +55,19 @@ My [Google Scholar](https://scholar.google.com/citations?user=QtutNncAAAAJ) 📝
 ```{=html}
 <table>
   <tbody>
+
+    <tr class="border_bottom">
+      <td><img src='/assets/misc/9_attention_heatmap.png' width="275"></td>
+      <td>
+        <strong>
+            <a href="">Kernelized Edge Attention: Addressing Semantic Attention Blurring in Temporal Graph Neural Networks</a> 
+        </strong>
+        <br> <strong>Govind Waghmare</strong>, Srini Rohan Gujulla Leel, Nikhil Tumbde, Sumedh B G, Sonia Gupta, Srikanta Bedathur 
+        <br> <em>The Association for the Advancement of Artificial Intelligence (AAAI), 2026</em>
+        <br> <a href="https://waghmaregovind.github.io/KEAT-TemporalGNN/">Project Page</a> 
+      </td>
+      <!-- <hr> -->
+    </tr>
 
     <tr class="border_bottom">
       <td><img src='/assets/misc/drift_2024_cods_main_arch.png' width="275"></td>
